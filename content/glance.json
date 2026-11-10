@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "id": "welcome-001",
+      "published": true,
+      "type": "Quranic reminder",
+      "title": "A moment of reflection",
+      "body": "Indeed, with hardship comes ease.",
+      "reference": "Qur’an 94:5–6"
+    }
+  ]
+}
