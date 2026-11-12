@@ -1,0 +1,9 @@
+{
+  "id": "naseem-glance-test-001",
+  "type": "announcement",
+  "title": "Glance Feed Test",
+  "description": "SUCCESS! Naseem has successfully fetched remote Glance feed content.",
+  "category": "System Test",
+  "publishedAt": "2026-11-12T18:30:00Z",
+  "priority": "normal"
+}
