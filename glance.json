@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "items": [
+    {
+      "id": "naseem-glance-connectivity-test",
+      "published": true,
+      "type": "System test",
+      "title": "Naseem Glance Feed Connected",
+      "body": "SUCCESS! Naseem has successfully fetched and displayed content from its remote Glance feed.",
+      "reference": "Remote feed connectivity test"
+    }
+  ]
+}
