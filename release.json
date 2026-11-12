@@ -1,8 +1,8 @@
 {
-  "version": "4.0.9",
-  "releaseUrl": "https://github.com/midhT/Naseem-public/releases/tag/v4.0.9",
-  "downloadUrl": "https://github.com/midhT/Naseem-public/releases/download/v4.0.9/app-release.apk",
-  "notesSummary": "Naseem 4.0.9: UI improvements, Quran recitation synchronization, restored global accent controls and improved first-launch setup.",
+  "version": "4.1.0",
+  "releaseUrl": "https://github.com/midhT/Naseem-public/releases/tag/v4.1.0",
+  "downloadUrl": "https://github.com/midhT/Naseem-public/releases/download/v4.1.0/app-release.apk",
+  "notesSummary": "Naseem 4.1.0: Redesigned startup experience, refreshed Arabic and English branding, smoother animations and improved screen transitions.",
   "publishedAt": "2026-11-12T00:00:00Z",
   "checksumUrl": null,
   "sha256": null
