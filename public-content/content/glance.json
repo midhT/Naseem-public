@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "quran-001",
+      "published": true,
+      "type": "Quranic reminder",
+      "title": "A moment of reflection",
+      "body": "Indeed, with hardship comes ease.",
+      "reference": "Qur’an 94:5–6"
+    },
+    {
+      "id": "lesson-001",
+      "published": true,
+      "type": "Daily lesson",
+      "title": "Learn the meaning of Tasbeeh",
+      "body": "SubhanAllah means that Allah is free from every imperfection. Alhamdulillah is praise and gratitude to Allah.",
+      "reference": "Daily learning · Dhikr"
+    },
+    {
+      "id": "quiz-001",
+      "published": true,
+      "type": "Daily quiz",
+      "title": "Quick knowledge check",
+      "body": "Which Surah is known as Umm al-Kitab (the Mother of the Book)?",
+      "reference": "Qur’an · Surah Al-Fatihah",
+      "quiz": {
+        "options": [
+          "Al-Baqarah",
+          "Al-Fatihah",
+          "Al-Ikhlas"
+        ],
+        "answer": 1,
+        "explanation": "Al-Fatihah is also known as Umm al-Kitab."
+      }
+    },
+    {
+      "id": "salah-001",
+      "published": true,
+      "type": "Salah lesson",
+      "title": "Pause in Ruku and Sujood",
+      "body": "Perform each movement with calmness and composure. Learn the exact recitations and rulings according to your selected school.",
+      "reference": "Sahih al-Bukhari 757 · introductory reminder"
+    }
+  ],
+  "contentVersion": 2,
+  "updatedAt": "2026-11-12",
+  "schemaVersion": 1
+}
